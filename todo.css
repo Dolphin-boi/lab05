@@ -1,0 +1,16 @@
+body {
+    background: rgb(246,7,221);
+    background: linear-gradient(90deg, rgba(246,7,221,1) 0%, rgba(250,136,248,1) 42%, rgba(246,249,160,1) 100%);
+}
+table {
+    width: 100%;
+}
+h1 {
+    display: block;
+    background: blue;
+    color: white;
+    text-align: center;
+}
+input {
+    width: 100%;
+}

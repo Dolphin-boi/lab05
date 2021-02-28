@@ -1,0 +1,14 @@
+.night {
+    background: black;
+    color: white;
+}
+span.night {
+    color: blue;
+}
+.day {
+    background: wheat;
+    color: black;
+}
+span.day {
+    color: red;
+}
